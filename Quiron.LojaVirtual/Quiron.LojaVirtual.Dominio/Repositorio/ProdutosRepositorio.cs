@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Quiron.LojaVirtual.Dominio.Repositorio
 {
-    public class ProdutoRepositorio
+    public class ProdutosRepositorio
     {
         private readonly EfDbContext _context = new EfDbContext();
 
